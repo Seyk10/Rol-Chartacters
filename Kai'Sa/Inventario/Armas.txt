@@ -1,4 +1,5 @@
 -----------
 ARMAS
 -----------
-Puños de acero (1d4)
+- Puños de acero (1d4)
+- Mandoble mágico (Calajad)

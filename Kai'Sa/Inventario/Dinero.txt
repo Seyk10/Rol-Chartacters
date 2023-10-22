@@ -1,4 +1,6 @@
 -----------
 DINERO
 -----------
-Monedas de plata: 5
+Monedas de cobre: 4
+Monedas de plata: 102
+Monedas de oro: 0
