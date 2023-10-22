@@ -1,0 +1,4 @@
+-----------
+DINERO
+-----------
+Monedas de plata: 5
