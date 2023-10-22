@@ -1,0 +1,9 @@
+LVL: 1 / EXP: 04/10
+ -----------
+ATRIBUTOS
+-----------
+MÚSCULO: fuerza dasbruta y resistencia. - 1
+DESTREZA: habilidad y agilidad.
+VIOLENCIA: la habilidad de un personaje para herir y matar. - 1
+INGENIO: agudeza mental y creatividad. - 1
+VOLUNTAD: autocontrol y entereza. - 2 
