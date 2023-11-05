@@ -1,4 +1,6 @@
 -------
 COMIDA
 -------
-- Ración 1 día
+
+- Raciones para 3 días
+- Odre con agua

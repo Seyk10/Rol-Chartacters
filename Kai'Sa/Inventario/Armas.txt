@@ -1,5 +1,4 @@
 -----------
 ARMAS
 -----------
-- Puños de acero (1d4)
-- Mandoble mágico (Calajad)
+- Puños de acero (1d4) - Mira talento BESTIA 2d6 te quedjas con el mayor.
