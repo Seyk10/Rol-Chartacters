@@ -8,3 +8,8 @@ Espada/Hombre medio fantasmal.
 BACKGROUND
 --------
 Busca eliminar el mal.
+
+--------
+NOTAS
+--------
+Quiere restablecer su casa. 

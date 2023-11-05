@@ -1,0 +1,16 @@
+TALENTOS MARCIALES: 2
+TALENTOS RACIALES: 1
+
+BACKGROUND TALENTO
+------------------
+ANCESTROS KRON† (R, M): Aprendes el hechizo Llamar a la entidad, costando PV en lugar de PE. 
+Lanza 1d6; con un 1 se vuelve contra ti. Además, cada luna llena este hechizo 
+se lanza automáticamente, pero la entidad es abiertamente hostil contra todo y todos los que estén cerca, tu incluide. 
+Esta ascendencia te da acceso a poderes oscuros más adelante.
+------------------
+
+TALENTOS MARCIALES
+------------------
+RANGO 1
+------------------
+BESTIAL: Incrementa tus PV en 5. Además, al luchar a puñetazo limpio, tiras 2d6 para el daño y te quedas con el dado más alto.
