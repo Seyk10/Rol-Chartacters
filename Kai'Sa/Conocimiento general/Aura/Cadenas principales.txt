@@ -1,0 +1,4 @@
+Aura cuenta con 3 cadenas principales y cada una tienen unas características:
+- Ascensor
+- Cadena, tiene runas desactivadas, esta fria al tacto
+- Cadena con runas que supremin el sonido del viento

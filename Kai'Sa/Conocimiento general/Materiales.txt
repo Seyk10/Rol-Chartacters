@@ -1,1 +1,1 @@
-- Hay huesos marcados como relíquias que anulan la mágia.
+- Hay huesos marcados como relíquias que anulan la mágia. Se trata del material y no de runas.
