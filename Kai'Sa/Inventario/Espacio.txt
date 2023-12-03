@@ -1,4 +1,4 @@
 -----------
 ESPACIO 10(BASE) + 1(MÚSCULO) = 11
 -----------
-Actual: 9 (Comida - 2, Misc - 6, Vestimenta - 1)
+Actual: 11 (Comida - 2, Misc - 8, Vestimenta - 1)
