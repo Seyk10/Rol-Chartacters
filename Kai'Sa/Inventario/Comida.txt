@@ -3,4 +3,4 @@ COMIDA - 2
 -------
 
 - Raciones para 3 días
-- Odre sin agua
+- Odre con agua

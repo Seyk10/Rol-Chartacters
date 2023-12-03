@@ -1,4 +1,4 @@
-LVL: 1 / EXP: 08
+LVL: 1 / EXP: 11
 -----------
 ATRIBUTOS
 -----------
@@ -7,3 +7,5 @@ DESTREZA: habilidad y agilidad.
 VIOLENCIA: la habilidad de un personaje para herir y matar - 1
 INGENIO: agudeza mental y creatividad - 2 (1 - por EXP)
 VOLUNTAD: autocontrol y entereza - 2 
+
+Extra de destino: 1 (Por 10 EXP)

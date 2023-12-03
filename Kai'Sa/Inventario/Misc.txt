@@ -1,5 +1,5 @@
 -------
-MISC - 6
+MISC - 8
 -------
 
 - Papel x6 y carboncillo x2 - 4 papeles - 7 runas cadena (hechizo de protección)
@@ -8,3 +8,5 @@ MISC - 6
 - Yesca & aceite vial
 - Antorcha x2
 - Kit de escalada
+- Medallón del gremio de cazarecompensas.
+- Calajd mandoble
