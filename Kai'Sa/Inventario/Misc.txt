@@ -1,12 +1,14 @@
 -------
-MISC - 8
+MISC - 7
 -------
 
-- Papel x6 y carboncillo x2 - 4 papeles - 7 runas cadena (hechizo de protección)
+- Papel x4 y carboncillo x2 
+    - 4 papeles - 7 runas cadena (hechizo de protección) 
+    - dibujos de símbolos puerta mazmorra cadenas 
+    - mapa inicial mazmorra cadenas
 - Saco de dormir
 - Cuerda 30ft
 - Yesca & aceite vial
-- Antorcha x2
+- Antorcha x1 
 - Kit de escalada
 - Medallón del gremio de cazarecompensas.
-- Calajd mandoble

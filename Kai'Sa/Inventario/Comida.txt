@@ -2,5 +2,5 @@
 COMIDA - 2
 -------
 
-- Raciones para 3 días
+- Raciones para 2 días
 - Odre con agua

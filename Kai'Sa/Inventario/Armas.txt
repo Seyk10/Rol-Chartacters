@@ -1,4 +1,4 @@
 -----------
 ARMAS
 -----------
-- Puños de acero (1d4) - Mira talento BESTIA 2d6 te quedjas con el mayor.
+- Puños de acero (1d4) - Mira talento BESTIA 2d6 te quedas con el mayor.
