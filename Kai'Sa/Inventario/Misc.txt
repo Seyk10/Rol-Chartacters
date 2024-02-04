@@ -3,7 +3,7 @@ MISC - 7
 -------
 
 - Papel x4 y carboncillo x2 
-    - 4 papeles - 7 runas cadena (hechizo de protección) 
+    - 3 papeles - 7 runas cadena (hechizo de protección) 
     - dibujos de símbolos puerta mazmorra cadenas 
     - mapa inicial mazmorra cadenas
 - Saco de dormir
