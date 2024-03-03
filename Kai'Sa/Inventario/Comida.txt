@@ -2,5 +2,6 @@
 COMIDA - 2
 -------
 
-- Raciones para 1 días
+- Raciones para 5 días
 - Odre con veneno de escorpion gigante.
+- Odre con agua
