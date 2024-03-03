@@ -9,7 +9,7 @@ se lanza automáticamente, pero la entidad es abiertamente hostil contra todo y 
 Esta ascendencia te da acceso a poderes oscuros más adelante.
 
 VIOLENCIA +3
-PV: 10/7
+PV: 10/10
 ------------------
 
 TALENTOS MARCIALES
