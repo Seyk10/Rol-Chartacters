@@ -6,9 +6,13 @@ MISC - 7
     - 3 papeles - 7 runas cadena (hechizo de protección) 
     - dibujos de símbolos puerta mazmorra cadenas 
     - mapa inicial mazmorra cadenas
+    - Notas de habitaciones y zonas ocultas
+    - Nota runas brazalete
 - Saco de dormir
 - Cuerda 30ft
 - Yesca & aceite vial
 - Antorcha x5 - 1 encendida
 - Kit de escalada
 - Medallón del gremio de cazarecompensas.
+- Vara de metal con botón y antena
+- 2 elixires
