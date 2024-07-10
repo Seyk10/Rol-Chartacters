@@ -8,5 +8,6 @@ Pelo: Cenizo, coleta corta y laterales afeitados.
 Ojos: Ojos de gato amarillos.
 Físico: Complexión atletica/musculada.
 Destacados: Le falta el anular izquierdo, algunas cicatrices en el cuellos y brazos.
+    - Cicatriz por parte de humo
 
-Puntos de destino: 7
+Puntos de destino: 8

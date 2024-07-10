@@ -1,5 +1,5 @@
 -------------
 ESTADO ACTUAL
 -------------
-PV: 18/9 (11 - Atributos, 1 - EXP, 5 - Talento, Brutal - EXP, 15)
-PE: 12/10 (12 - Atributos, 1 - EXP)
+PV: 18/18 (11 - Atributos, 1 - EXP, 5 - Talento, Brutal - EXP, 15)
+PE: 12/12 (12 - Atributos, 1 - EXP)
